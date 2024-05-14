@@ -178,12 +178,12 @@ footer{
     font-size: smaller;
     text-align: center;
 }
-@media only screen and (max-width: 767px){
+@media screen and (max-width: 767px){
     body{
         background-color: #000000;
         margin: 0;
     }
-    .menu {
+    /*.menu {
         background-color: #0F4C75;
         margin-top: 2%;
         padding: 0px;
@@ -194,7 +194,7 @@ footer{
     }
     .menu ul li {
         font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-        display: inline;  /* Itens o menu serão exibidos lado a lado */
+        display: inline;  /* Itens o menu serão exibidos lado a lado 
         margin-right: 10%; 
         font-size: 20px; 
              
@@ -206,6 +206,6 @@ footer{
     }
     .menu ul li a:hover {
         background-color: #3282B8; /*Destaque ao passar o mouse sobre o menu*/
-    }
+    }*/
 }
 
