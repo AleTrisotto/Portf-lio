@@ -1,2 +1,2 @@
-# Portfolio
-Projeto  para acesso ao meu portfólio on line
+# Portfolio Alessandra Mara Trisotto
+Trabalho destinado a matéria de Fundamentos da Programação Web da Uninter.
